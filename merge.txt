@@ -1,1 +1,5 @@
 fazendo merge errado
+
+merge errado 1
+e
+merge errado 2
